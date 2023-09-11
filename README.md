@@ -6,3 +6,6 @@ This is the add user form :
 Also if u want either delete :  
 ![2023-09-11 10_25_43-home page - Opera](https://github.com/DavidLuques/Crud_express/assets/76604947/becdd1b2-9ffe-460d-aef6-f1b1bf054b33)
 or edit :
+![2023-09-11 10_30_34-](https://github.com/DavidLuques/Crud_express/assets/76604947/1359bf5d-1446-4227-8e4f-7e6a06f18605)
+
+this project has been build using express,  Database password is public change it when download though..   
