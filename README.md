@@ -11,6 +11,6 @@ This is a CRUD build in node js  and express
 `or edit :`
 ![2023-09-11 10_30_34-](https://github.com/DavidLuques/Crud_express/assets/76604947/1359bf5d-1446-4227-8e4f-7e6a06f18605)
 
-this project has been build using express,  Database password is public change it when download though..   
+This project has been build using express,  Database password is public change it when download though..   
 be sure that u re hiding ur DB keys , It could be trought using dot env library ...   
 feel free to contact me :  braian.luques2@gmail.com
